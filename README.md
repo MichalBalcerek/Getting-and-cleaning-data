@@ -7,6 +7,6 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 # Files
 In my repo you can find the following files:
-- 'run_analysis.R' in this file you can find the code used to create "tidy.txt" which is required for the course project;
-- 'README.md' well, you are reading this now - it contains all the necessary descriptions;
-- 'CodeBook.md' describes the variables, the data, and all work to clean up the data;
+- run_analysis.R in this file you can find the code used to create "tidy.txt" which is required for the course project;
+- README.md well, you are reading this now - it contains all the necessary descriptions;
+- CodeBook.md describes the variables, the data, and all work to clean up the data;
